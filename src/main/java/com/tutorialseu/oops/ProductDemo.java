@@ -1,4 +1,6 @@
-package com.tutorialseu.basics;
+package com.tutorialseu.oops;
+
+import com.tutorialseu.oops.Product;
 
 public class ProductDemo {
     public static void main(String[] args){

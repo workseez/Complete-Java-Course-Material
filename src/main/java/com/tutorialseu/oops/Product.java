@@ -1,4 +1,4 @@
-package com.tutorialseu.basics;
+package com.tutorialseu.oops;
 
 public class Product {
     private String productId;
