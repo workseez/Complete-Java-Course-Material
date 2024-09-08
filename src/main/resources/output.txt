@@ -1,0 +1,6 @@
+Hello, World!
+Welcome to the Java Character Output Streams chapter.
+JavaBuffered Writer Example:
+This is the first line.
+This is the second line.
+Adding more content to the file using BufferedWriter.
